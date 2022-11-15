@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kaan
 
 
-Skills: C# / JS / HTML / CSS
+Skills: C# / JS
 
 - 🌱 I’m currently learning C# / JS / Java 
 
