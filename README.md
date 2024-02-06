@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kaan
 # 💫 About Me:
-🔭 I’m currently working on C#, Java and Python <br>🌱 I’m currently learning C++
+🔭 I’m currently working on C#, Java and Python <br>
 
 💬 For contact please e-mail me! kaanuznr@gmail.com
 
